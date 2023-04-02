@@ -1,0 +1,5 @@
+# Configuration file for deploy_freenas.py
+# Generate a new API key in the web interface under "Settings" (upper right) > "API Keys"
+#
+[deploy]
+api_key = CHANGE_ME
